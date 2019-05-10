@@ -1,4 +1,4 @@
-# bitcoin prediction
+# bitcoin price prediction
 
 ![bitcoin closing prices](notebooks/img/bitcoin.png)
 
